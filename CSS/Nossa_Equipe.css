@@ -90,7 +90,7 @@ a{
 /*Corpo da Página*/
 
 body{
-    background-image: url("Imagens/fundo.jpg");
+    background-image: url("../Imagens/fundo.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
